@@ -1,2 +1,2 @@
 # templates
-all templates
+HTML Templates
